@@ -1,7 +1,7 @@
 # VisualizationWork
 
 ## Introduction
-My undergraduate work (grade A awarded), covering several visualisation experiments, was implemented by Python.
+My undergraduate work (grade A awarded), covering several visualisation experiments, implemented by Python.
 
 
 
